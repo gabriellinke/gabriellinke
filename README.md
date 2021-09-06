@@ -3,7 +3,7 @@
 
 <h3 align="center">
 
-[![Linkedin Badge](https://img.shields.io/badge/-gabriellinke-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriellinke/)](https://www.linkedin.com/in/gabriel-henrique-linke-a785281aa/)
+[![Linkedin Badge](https://img.shields.io/badge/-gabriellinke-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriellinke/)](https://www.linkedin.com/in/gabriellinke/)
 [![Gmail Badge](https://img.shields.io/badge/-gabriellinke2001@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gabriellinke2001@gmail.com)](mailto:gabriellinke2001@gmail.com)
 </h3>
   
