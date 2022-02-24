@@ -7,11 +7,11 @@
 [![Gmail Badge](https://img.shields.io/badge/-gabriellinke2001@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gabriellinke2001@gmail.com)](mailto:gabriellinke2001@gmail.com)
 </h3>
   
-- 🔭 I’m currently working on [NÓS - Nosso Olhar Solidário](https://nossoolharsolidario.com.br/), where I develop an App using React Native and the Back-end using Node.js
+- 🔭 I’m currently working on [NÓS - Nosso Olhar Solidário](https://nossoolharsolidario.com.br/), where I develop an App using React Native, the Web-App with React and the Back-end using Node.js
 
 - 🌱 I’m currently deepening my studies in **React, React Native, Node.js and Sails.js**
 
-- 👨‍💻 Some of my projects are available at [https://gabriellinke.tech](https://gabriellinke.tech)
+- 👨‍💻 Some of my projects are available at [https://gabriellinke.dev.br](https://gabriellinke.dev.br)
 
 
 <h3 align="left">Languages and Tools:</h3>
