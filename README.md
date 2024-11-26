@@ -7,14 +7,9 @@
 [![Gmail Badge](https://img.shields.io/badge/-gabriellinke2001@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gabriellinke2001@gmail.com)](mailto:gabriellinke2001@gmail.com)
 </h3>
  
-- 💼 I’m currently working as a Data Engineering Intern at [ExxonMobil](https://corporate.exxonmobil.com/), where I am actively engaged in migrating on-premises pipelines to the cloud and providing support for SQL Server applications.
-
-- 🔭 I’m currently a consultant at [NÓS - Nosso Olhar Solidário](https://nossoolharsolidario.com.br/), where I provide support by training new members, offering guidance on implementing new solutions, and sharing knowledge about legacy systems.
-
-- 🌱 I’m currently deepening my studies in **Microsoft Azure and SQL Server**
-
+- 💼 I’m currently working as a Software Engineer at [ExxonMobil](https://corporate.exxonmobil.com/).
+  
 - 👨‍💻 Some of my projects are available at [https://gabriellinke.github.io/portfolio/](https://gabriellinke.github.io/portfolio/)
-
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="right"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=gabriellinke&show_icons=true&locale=en&layout=compact&theme=radical" alt="gabriellinke" /></p>
