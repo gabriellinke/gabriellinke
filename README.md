@@ -1,12 +1,11 @@
 <h1 align="center">Hi 👋, I'm Gabriel Henrique Linke</h1>
-<h3 align="center">:books: A passionate computer engineering student at UTFPR.</h3>
-
-<h3 align="center">
 
 [![Linkedin Badge](https://img.shields.io/badge/-gabriellinke-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriellinke/)](https://www.linkedin.com/in/gabriellinke/)
 [![Gmail Badge](https://img.shields.io/badge/-gabriellinke2001@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gabriellinke2001@gmail.com)](mailto:gabriellinke2001@gmail.com)
 </h3>
- 
+
+- 🎓 Computer Engineer from UTFPR.
+
 - 💼 I’m currently working as a Software Engineer at [ExxonMobil](https://corporate.exxonmobil.com/).
   
 - 👨‍💻 Some of my projects are available at [https://gabriellinke.github.io/portfolio/](https://gabriellinke.github.io/portfolio/)
@@ -30,8 +29,6 @@
 <a href="https://nodejs.org" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/> </a>
 
 <a href="https://nodejs.org" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="Microsoft Azure" width="40" height="40"/> </a>
-<a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> 
-<a href="https://www.arduino.cc/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a>
 <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
 <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
 </p>
