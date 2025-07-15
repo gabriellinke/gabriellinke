@@ -9,7 +9,6 @@
 - 💼 I’m currently working as a Software Engineer at [ExxonMobil](https://corporate.exxonmobil.com/).
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="right"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=gabriellinke&show_icons=true&locale=en&layout=compact&theme=radical" alt="gabriellinke" /></p>
 <p align="left"> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
